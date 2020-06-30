@@ -1,0 +1,3 @@
+Our project involves tackling an issue which troubles around 10 percent of all Americans - phobias.
+We hope to provide a solution using virtual reality for people with glossophobic disorders rooted in visual stimuli.
+This VR tool will enable users to expose themselves to an auditorium with control over their environment.
